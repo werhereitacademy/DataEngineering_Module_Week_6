@@ -1,6 +1,6 @@
 <img width="894" height="881" alt="image" src="https://github.com/user-attachments/assets/f7ce4baf-3d4f-41eb-a77a-c70faddc3114" />
 
-# 🎬 Azure Data Engineering & Analytics – Week 7  
+# 🎬 Azure Data Engineering & Analytics – Week 6  
 ## End-to-End Data Integration & Analytics Project  
 ### *(MySQL → Snowflake → MongoDB)*
 
